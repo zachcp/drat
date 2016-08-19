@@ -1,0 +1,12 @@
+Package: phylogeo
+Version: 0.99.6.3
+Depends: R (>= 3.0)
+Imports: igraph (>= 0.7.0), reshape2 (>= 1.2.2), sp (>= 1.0-15), ape
+        (>= 3.2), phyloseq (>= 1.9.13), mapproj (>= 1.2), maps (>=
+        3.0), mapdata (>= 2.2), leaflet (>= 1.0), dplyr (>= 0.4.3),
+        cowplot (>= 0.5.0), ggplot2 (>= 1.0.0), httpuv, htmltools
+Suggests: devtools, testthat, knitr, rmarkdown, magrittr
+License: AGPL-3
+MD5sum: 4862fff544ea401cd4dada5695a926f2
+NeedsCompilation: no
+
